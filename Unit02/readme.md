@@ -16,7 +16,7 @@ Result3: LOS & NLOS경로 분류 후 선형회귀모델 학습
 ![](result3.jpg)  
 
 Result4: 경로 분류를 다항회귀모델로 학습 후 예측
-![](reuslt4.jpg)  
+![](result4.jpg)  
   
   
 Lab2.m: 메인스크립트  
