@@ -12,7 +12,18 @@ MATLAB이제공하는 5G Cluster Delay line 모델을 사용 (등방 안테나�
 6. SDR 실습
 
 결과  
-
+1.  
+!()[result1.jpg]
+2.  
+!()[result2.jpg]
+3.
+!()[result3.jpg]
+4.
+!()[result4.jpg]
+5.  
+!()[result5.jpg]
+6.  
+!()[result6.jpg]
 
 
 
