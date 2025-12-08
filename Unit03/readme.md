@@ -12,17 +12,17 @@ MATLAB이제공하는 5G Cluster Delay line 모델을 사용 (등방 안테나�
 6. SDR 실습
 
 결과  
-1.  5G CDL 모델 채널탭 & 채널탭 With Patch Antenna
+1.  5G CDL 모델 채널탭 & 채널탭 With Patch Antenna directivity
 ![](result1.jpg)
-2.  
+2.  채널을 통과한 임의의 신호의 채널H 추정(nfft * nframe) 
 ![](result2.jpg)
-3.
+3.  추정된 1frame 채널h (peak가 딜레이추정) 
 ![](result3.jpg])
-4.
+4.  임의의 delay에서 채널추정의 시간영역 변화 (real 값, imag값) 도플러에 의한 출렁거림
 ![](result4.jpg)
-5.  
+5.  임의의 신호를 SDR로 송&수신 했을때 1frmae 채널 h 추정
 ![](result5.jpg)
-6.  
+6.  SDR로 송&수신했을때 임의의 delay에서 채널추정의 시간영역 변화 (real 값, imag값) 도플러가 없어 평평함
 ![](result6.jpg)
 
 
