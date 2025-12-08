@@ -12,7 +12,7 @@ MATLAB이제공하는 5G Cluster Delay line 모델을 사용 (등방 안테나�
 6. SDR 실습
 
 결과  
-1.  
+1.  5G CDL 모델 채널탭 & 채널탭 With Patch Antenna
 ![](result1.jpg)
 2.  
 ![](result2.jpg)
@@ -24,6 +24,13 @@ MATLAB이제공하는 5G Cluster Delay line 모델을 사용 (등방 안테나�
 ![](result5.jpg)
 6.  
 ![](result6.jpg)
+
+
+Lab3.m: 메인스크립트
+multiPathLab.mlx : Lab3 문제
+ElemWithAxes: 임의의 안테나의 축을 가장 강한경로로 Align  
+ChanSounder : 임의의 랜덤 주파수축 신호 생성 & 채널추정  
+plutoCreateTxRx : Plust SDR 객체 생성
 
 
 
