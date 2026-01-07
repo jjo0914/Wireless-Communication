@@ -7,7 +7,19 @@
 5. 1슬롯 내에 PDSCH 자원이 아닌 Grid 마스킹(가로선 :DM-RS(복조용 참조신호))  
 6. PDSCH 심볼복조  
 7. SNR에따른 PDSCH 비트복조&블록에러 확인 (비트 하나라도 오류나면 블록에러)  
-8. SNR에서 샤논용량계산(bit/s/Hz)  
+8. SNR에서 샤논용량계산(bit/s/Hz)
+
+  결과1.
+  ![](result1.jpg)  
+
+  결과2.  
+  ![](result2.jpg)  
+
+  결과3.  
+  ![](result3.jpg)  
+
+  결과4.  
+  ![](result4.jpg)
   
 Lab4.m: 메인  
 FDChan: OFDM 채널 시뮬레이션 코드  
