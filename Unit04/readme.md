@@ -9,8 +9,8 @@
 7. SNR에따른 PDSCH 비트복조&블록에러 확인 (비트 하나라도 오류나면 블록에러)  
 8. SNR에서 샤논용량계산(bit/s/Hz)  
   
-Lab4.m: 메인
-FDChan: OFDM 채널 시뮬레이션 코드
-NRgNBTxFD : OFDM TxGrid 시뮬레이션 (제공 스크립트)
-NRgNBRxFD : RxGrid 심볼 복조 및 비트 복호(제공 스크립트)
-labPdsch : 문제
+Lab4.m: 메인  
+FDChan: OFDM 채널 시뮬레이션 코드  
+NRgNBTxFD : OFDM TxGrid 시뮬레이션 (제공 스크립트)  
+NRgNBRxFD : RxGrid 심볼 복조 및 비트 복호(제공 스크립트  
+labPdsch : 문제  
